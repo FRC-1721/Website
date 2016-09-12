@@ -73,6 +73,15 @@ body {
 	color: black;
 }
 
+.logo-pull .navbar-brand {
+	display: flex;
+	align-items: center;
+}
+
+.logo-pull .navbar-brand>img {
+	padding: 7px 14px;
+}
+
 /* -------- ROBOTS */
 .game-link {
 	color: white;
