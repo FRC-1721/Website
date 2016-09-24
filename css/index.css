@@ -31,7 +31,7 @@ body {
 
 /* ------- TOP IMAGE COVER */
 .image-head {
-	background: url('http://i.imgur.com/kfzhWDd.jpg') no-repeat top center fixed;
+	background: url('http://i.imgur.com/kfzhWDd.jpg') no-repeat top center fixed / cover;
 	background-size: cover;
 	height: 100%;
 	width: 100%;
